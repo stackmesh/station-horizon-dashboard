@@ -10,7 +10,7 @@
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Report vulnerabilities via [GitHub Security Advisories](https://github.com/ojbaeza/station/security/advisories):
+Report vulnerabilities via [GitHub Security Advisories](https://github.com/stackmesh/station/security/advisories):
 
 1. Go to the Security Advisories page
 2. Click "Report a vulnerability"
@@ -77,7 +77,7 @@ When using Station in production, follow these guidelines:
 
 This security policy applies to:
 
-- The Station package (`ojbaeza/station`)
+- The Station package (`stackmesh/station`)
 - Official Station documentation
 - The Station dashboard and API
 

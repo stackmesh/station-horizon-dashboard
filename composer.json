@@ -1,5 +1,5 @@
 {
-    "name": "ojbaeza/station",
+    "name": "stackmesh/station",
     "description": "A comprehensive Laravel queue management package with multi-driver support (RabbitMQ, Redis, SQS, Beanstalkd, Kafka), job recovery, and real-time dashboard",
     "keywords": [
         "laravel",
@@ -16,15 +16,15 @@
         "dashboard"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/ojbaeza/station",
+    "homepage": "https://github.com/stackmesh/station",
     "support": {
-        "issues": "https://github.com/ojbaeza/station/issues",
-        "source": "https://github.com/ojbaeza/station"
+        "issues": "https://github.com/stackmesh/station/issues",
+        "source": "https://github.com/stackmesh/station"
     },
     "authors": [
         {
             "name": "OJ Baeza",
-            "email": "dev@ojbaeza.com"
+            "email": "dev@stackmesh.com"
         }
     ],
     "require": {
@@ -107,7 +107,7 @@
     "funding": [
         {
             "type": "github",
-            "url": "https://github.com/sponsors/ojbaeza"
+            "url": "https://github.com/sponsors/stackmesh"
         }
     ],
     "minimum-stability": "stable",

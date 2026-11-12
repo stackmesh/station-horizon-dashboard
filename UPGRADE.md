@@ -55,7 +55,7 @@ php artisan migrate --path=database/migrations/xxxx_create_station_tables.php
 composer update
 
 # Or update only Station
-composer update ojbaeza/station --with-dependencies
+composer update stackmesh/station --with-dependencies
 ```
 
 ### Dashboard Not Loading After Upgrade
@@ -77,5 +77,5 @@ npm install && npm run build
 ## Getting Help
 
 - **Documentation:** [README.md](README.md)
-- **Issues:** [GitHub Issues](https://github.com/ojbaeza/station/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/ojbaeza/station/discussions)
+- **Issues:** [GitHub Issues](https://github.com/stackmesh/station/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/stackmesh/station/discussions)

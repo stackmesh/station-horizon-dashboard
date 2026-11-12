@@ -2,21 +2,21 @@
 # These users will be automatically requested for review on PRs
 
 # Default owners for everything
-* @ojbaeza
+* @stackmesh
 
 # Documentation
-*.md @ojbaeza
-/docs/ @ojbaeza
+*.md @stackmesh
+/docs/ @stackmesh
 
 # Core functionality
-/src/Core/ @ojbaeza
-/src/Drivers/ @ojbaeza
-/src/Recovery/ @ojbaeza
+/src/Core/ @stackmesh
+/src/Drivers/ @stackmesh
+/src/Recovery/ @stackmesh
 
 # Dashboard
-/src/Dashboard/ @ojbaeza
-/resources/ @ojbaeza
+/src/Dashboard/ @stackmesh
+/resources/ @stackmesh
 
 # Configuration and CI
-/.github/ @ojbaeza
-/docker/ @ojbaeza
+/.github/ @stackmesh
+/docker/ @stackmesh

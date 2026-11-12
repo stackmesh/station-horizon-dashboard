@@ -23,7 +23,7 @@ We are committed to making participation in this project a positive experience f
 
 Project maintainers may remove, edit, or reject contributions that do not align with this Code of Conduct.
 
-Instances of unacceptable behavior may be reported via [GitHub Issues](https://github.com/ojbaeza/station/issues).
+Instances of unacceptable behavior may be reported via [GitHub Issues](https://github.com/stackmesh/station/issues).
 
 ## Attribution
 

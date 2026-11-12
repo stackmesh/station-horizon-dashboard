@@ -13,7 +13,7 @@ info:
     url: https://opensource.org/licenses/MIT
   contact:
     name: OJ Baeza
-    url: https://github.com/ojbaeza/station
+    url: https://github.com/stackmesh/station
 
 servers:
   - url: '{baseUrl}/api/station'

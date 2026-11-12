@@ -12,7 +12,7 @@
 1. **Install Station alongside Horizon:**
 
 ```bash
-composer require ojbaeza/station
+composer require stackmesh/station
 php artisan vendor:publish --provider="Station\StationServiceProvider"
 php artisan migrate
 ```

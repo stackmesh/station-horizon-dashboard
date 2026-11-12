@@ -1,10 +1,10 @@
 # Station
 
-[![CI](https://github.com/ojbaeza/station/workflows/CI/badge.svg)](https://github.com/ojbaeza/station/actions)
-[![Coverage](https://codecov.io/gh/ojbaeza/station/branch/main/graph/badge.svg)](https://codecov.io/gh/ojbaeza/station)
-[![Latest Version](https://img.shields.io/packagist/v/ojbaeza/station.svg)](https://packagist.org/packages/ojbaeza/station)
-[![License](https://img.shields.io/github/license/ojbaeza/station)](LICENSE)
-[![PHP Version](https://img.shields.io/packagist/php-v/ojbaeza/station.svg)](composer.json)
+[![CI](https://github.com/stackmesh/station/workflows/CI/badge.svg)](https://github.com/stackmesh/station/actions)
+[![Coverage](https://codecov.io/gh/stackmesh/station/branch/main/graph/badge.svg)](https://codecov.io/gh/stackmesh/station)
+[![Latest Version](https://img.shields.io/packagist/v/stackmesh/station.svg)](https://packagist.org/packages/stackmesh/station)
+[![License](https://img.shields.io/github/license/stackmesh/station)](LICENSE)
+[![PHP Version](https://img.shields.io/packagist/php-v/stackmesh/station.svg)](composer.json)
 
 **A Laravel Horizon alternative with multi-driver support and enhanced job recovery.**
 
@@ -51,7 +51,7 @@ For a detailed comparison with Horizon, see [Station vs Horizon](docs/architectu
 ## Installation
 
 ```bash
-composer require ojbaeza/station
+composer require stackmesh/station
 php artisan vendor:publish --provider="Station\StationServiceProvider"
 php artisan migrate
 php artisan station:install

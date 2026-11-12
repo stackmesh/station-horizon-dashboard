@@ -14,7 +14,7 @@ Thank you for your interest in contributing to Station! This document provides g
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/ojbaeza/station.git
+git clone https://github.com/stackmesh/station.git
 cd station
 composer install
 npm install
